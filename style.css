@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    background-image: url('mountains-4984418_1920.png');
+    background-size: cover;
+  }
+
+  .section{
+    max-width: 40%;
+    padding: 10px;
+    padding-bottom: 20px;
+
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f9c7bcdb;
+  }
+  
+  h1 {
+    color:rgb(146, 6, 6);
+    margin-top: 50px;
+  }
+  p{
+    font-size: 20px;
+    font-weight: 300;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  input[type="number"] {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #3e8e41;
+  }
+  
+
+
+  #result {
+    color: rgb(253, 253, 253);
+    font-size: 28px;
+    margin-top: 20px;
+  }
+  
